@@ -1,9 +1,7 @@
 package com.tcurt628.smartshop.review;
 
 import com.vmware.xenon.common.*;
-import com.vmware.xenon.dns.services.DNSFactoryService;
 import com.vmware.xenon.dns.services.DNSService;
-import com.vmware.xenon.services.common.ExampleService;
 import com.vmware.xenon.services.common.ServiceUriPaths;
 import org.apache.commons.lang3.StringUtils;
 

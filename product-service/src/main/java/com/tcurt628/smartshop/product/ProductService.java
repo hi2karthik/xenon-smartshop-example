@@ -1,11 +1,7 @@
 package com.tcurt628.smartshop.product;
 
 import com.vmware.xenon.common.*;
-import com.vmware.xenon.dns.services.DNSFactoryService;
 import org.apache.commons.lang3.StringUtils;
-
-import java.net.URI;
-import java.util.logging.Level;
 
 /**
  * Created by tcurtis on 2/24/16.
